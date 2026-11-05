@@ -1,4 +1,10 @@
-## Hi there 👋
+<h1>Hi, I'm Cole! <br/><a href="https://github.com/Colevernious">Data Analyst</a>, <a href="www.linkedin.com/in/cole-boyer-711571437">Statistics and Data Analytics Student</a></h1>
+
+<h2>👨‍💻 RStudio Projects:</h2>
+- <b>Football</b>
+
+  - 1st and Goal Analysis (Using 2025 college football data to analyze difficult spots on the field) (https://github.com/Colevernious/1st-and-Goal-Analysis)
+
 
 <!--
 **Colevernious/Colevernious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
